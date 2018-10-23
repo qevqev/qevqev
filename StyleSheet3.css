@@ -1,0 +1,24 @@
+﻿body {
+    background-image: url("https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fimg1.coastalliving.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2F2018%2F01%2Fmain%2Faruba-flamingo-beach-685013591.jpg%3Fitok%3Dq4PeHOd7&w=700&q=85");
+}
+.nav {
+    background-color: rgb(128,128,128);
+    color: rgb(255,255,255);
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+    .nav > li {
+        display: inline-block;
+        padding: 0 25px 0 25px;
+    }
+
+        .nav > li > a {
+            text-decoration: none;
+            color: #ffffff;
+        }
+
+            .nav > li > a:hover {
+                color: #C1C1C1
+            }
